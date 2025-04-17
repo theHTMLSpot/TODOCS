@@ -1,0 +1,14 @@
+/Users/ethan/Documents/VsCode/csharp/TaskApp/bin/Debug/net9.0/TaskApp
+/Users/ethan/Documents/VsCode/csharp/TaskApp/bin/Debug/net9.0/TaskApp.deps.json
+/Users/ethan/Documents/VsCode/csharp/TaskApp/bin/Debug/net9.0/TaskApp.runtimeconfig.json
+/Users/ethan/Documents/VsCode/csharp/TaskApp/bin/Debug/net9.0/TaskApp.dll
+/Users/ethan/Documents/VsCode/csharp/TaskApp/bin/Debug/net9.0/TaskApp.pdb
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.AssemblyInfoInputs.cache
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.AssemblyInfo.cs
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.csproj.CoreCompileInputs.cache
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.dll
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/refint/TaskApp.dll
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.pdb
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/TaskApp.genruntimeconfig.cache
+/Users/ethan/Documents/VsCode/csharp/TaskApp/obj/Debug/net9.0/ref/TaskApp.dll
